@@ -12,18 +12,6 @@ A full-stack Cafe Management System built using **Angular**, **Spring Boot**, an
 
 ---
 
-## 🎬 Video Overview Summary
-
-This project walkthrough showcases key technical implementations:
-
-- **Angular frontend** on `localhost:4200`
-- **Spring Boot backend** on `localhost:8081`
-- MySQL as the database for users, orders, products, and categories
-
-The video walks through user flows, including signup/login, admin approval, dashboard overview, bill generation, and email notifications. It highlights API integration, session management, validation, and real-time UI feedback.
-
----
-
 ## 🔑 Key Features
 
 ### 👥 User Management
